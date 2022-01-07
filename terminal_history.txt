@@ -1,0 +1,50 @@
+  406  ll
+  407  more qualifying_loan_results.csv 
+  408  rm qualifying_loan_results.csv 
+  409  python3 app.py 
+  410  more qualifying_loan_results.csv 
+  411  python3 app.py 
+  412  ll
+  413  rm qualifying_loan_results.csv 
+  414  python3 app.py 
+  415  ll
+  416  rm qualifying_loan_results.csv 
+  417  python3 app.py 
+  418  ll
+  419  emacs README.md 
+  420  pip install pipreqs
+  421  pipreqs .
+  422  ll
+  423  more requirements.txt 
+  424  ll
+  425  git status
+  426  cd ..
+  427  ll
+  428  git module_01_challenge/
+  429  git status
+  430  git difftool module_01_challenge/loan_analyzer.py
+  431  sudo apt install bcompare
+  432  tkdiff
+  433  bcompare
+  434  git diff module_01_challenge/loan_analyzer.py
+  435  ll
+  436  cd module_01_challenge/
+  437  ll
+  438  git difftool
+  439  bc
+  440  tkdiff
+  441  sudo apt install tkcvs
+  442  git difftool
+  443  ll
+  444  git checkout -f loan_analyzer.py
+  445  ll
+  446  git status
+  447  cd ..
+  448  git add module_02_challenge/
+  449  git status
+  450  git commit -a
+  451  git ush
+  452  git push
+  453  cd module_02_challenge/
+  454  more requirements.txt 
+  455  history 50 > terminal_history.txt
